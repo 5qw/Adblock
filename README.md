@@ -5,7 +5,7 @@
 
 🧩 » <b> Características: </b>
 * Bloquea todos los anuncios de cualquier sitio web
-	- (Para twitch usa [Twitch Adblock](https://github.com/5qw/TAdblock))
+	- (Para twitch usa [TAdblock](https://github.com/5qw/TAdblock))
 
 ⚙️ » <b> Instalación recomendada:</b>
 * Descargue el archivo .ZIP más reciente
