@@ -9,7 +9,7 @@
       "32": "img/icon_32.png"
     },
     "default_popup": "popup-fenix.html",
-    "default_title": "Xyz AdBlock | Versión: dev"
+    "default_title": "Xyz AdBlock"
   },
   "commands": {
     "launch-element-picker": {
@@ -75,7 +75,7 @@
   "incognito": "split",
   "manifest_version": 2,
   "minimum_chrome_version": "66.0",
-  "name": "Xyz AdBlock | Versión: dev",
+  "name": "Xyz AdBlock",
   "options_ui": {
     "open_in_tab": true,
     "page": "dashboard.html"
@@ -91,7 +91,7 @@
     "webRequestBlocking",
     "<all_urls>"
   ],
-  "short_name": "Xyz AdBlock | Versión: dev",
+  "short_name": "Xyz AdBlock",
   "storage": {
     "managed_schema": "managed_storage.json"
   },
