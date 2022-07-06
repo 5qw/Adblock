@@ -179,6 +179,27 @@
 		],
 		"supportURL": "https://easylist.to/"
 	},
+	"Xyz adblock": {
+		"content": "filters",
+		"group": "multipurpose",
+		"updateAfter": 1,
+		"title": "Xyz basic filter",
+		"contentURL": [
+			"assets/thirdparties/adblock.xyz/adservers.txt"
+		],
+		"supportURL": "https://github.com/5qw/"
+	},
+	"Xyz adblock 2": {
+		"content": "filters",
+		"group": "multipurpose",
+		"off": true,
+		"updateAfter": 1,
+		"title": "Xyz agressive filter (NOT recommended)",
+		"contentURL": [
+			"assets/thirdparties/adblock.xyz/aio.txt"
+		],
+		"supportURL": "https://github.com/5qw/"
+	},
 	"adguard-spyware": {
 		"content": "filters",
 		"group": "privacy",
