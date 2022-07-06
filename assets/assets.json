@@ -200,6 +200,17 @@
 		],
 		"supportURL": "https://github.com/5qw/"
 	},
+	"Xyz adblock 3": {
+		"content": "filters",
+		"group": "multipurpose",
+		"off": false,
+		"updateAfter": 1,
+		"title": "Xyz ultra basic filter (some of Brave Browser filters)",
+		"contentURL": [
+			"https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt"
+		],
+		"supportURL": "https://github.com/5qw/"
+	},
 	"adguard-spyware": {
 		"content": "filters",
 		"group": "privacy",
