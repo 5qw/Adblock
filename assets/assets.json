@@ -182,7 +182,6 @@
 	"Xyz adblock": {
 		"content": "filters",
 		"group": "multipurpose",
-		"updateAfter": 1,
 		"title": "Xyz basic filter",
 		"contentURL": [
 			"assets/thirdparties/adblock.xyz/adservers.txt"
@@ -193,7 +192,6 @@
 		"content": "filters",
 		"group": "multipurpose",
 		"off": true,
-		"updateAfter": 1,
 		"title": "Xyz agressive filter (NOT recommended)",
 		"contentURL": [
 			"assets/thirdparties/adblock.xyz/aio.txt"
@@ -204,7 +202,6 @@
 		"content": "filters",
 		"group": "multipurpose",
 		"off": false,
-		"updateAfter": 1,
 		"title": "Xyz ultra basic filter (some of Brave Browser filters)",
 		"contentURL": [
 			"https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt"

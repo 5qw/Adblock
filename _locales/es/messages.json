@@ -4,7 +4,7 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "Bloqueador de anuncios personal | @xyz <3.",
+    "message": "Bloqueador de anuncios general. Made by: @xyz.",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
