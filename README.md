@@ -3,7 +3,7 @@
     <h5 align="center"> <p>💲 Desactiva el Adblock para apoyar las páginas que visitas 💲</p> </h5>
 </center>
 
-Este repositorio contiene tanto el codigo fuente (accesible para todos) como los archivos necesarios para instalar la extensión TAdblock.
+Este repositorio contiene tanto el codigo fuente (accesible para todos) como los archivos necesarios para instalar la extensión Xyz Adblock.
 
 ## 🧩 » <b> Características: </b>
 * Bloquea todos los anuncios de cualquier sitio web
