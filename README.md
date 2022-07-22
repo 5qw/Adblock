@@ -1,13 +1,12 @@
-<center>
-    <h1 align="center">💮 Xyz Adblock 💮</h1>
-    <h5 align="center"> <p>💲 Desactiva el Adblock para apoyar las páginas que visitas 💲</p> </h5>
-</center>
+<p align="center"> <img src="https://github.com/5qw/Adblock/blob/main/img/icon_64.png"> </p>
 
-Este repositorio contiene tanto el codigo fuente (accesible para todos) como los archivos necesarios para instalar la extensión Xyz Adblock.
+## <p align="center"> 💮 Xyz Adblock 💮</p>
+<p align="center">💲 Desactiva el Adblock para apoyar las páginas que visitas 💲</p>
 
-## 🧩 » <b> Características: </b>
-* Bloquea todos los anuncios de cualquier sitio web
-	- (Para twitch usa [TAdblock](https://github.com/5qw/TAdblock))
+<p align="center"> <img src="https://img.shields.io/github/stars/5qw/Adblock?label=Stars"> <img src="https://img.shields.io/badge/license-GPLv3-green.svg?label=License"> </p>
+
+## 🧩 » <b> Información: </b>
+Un bloqueador de anuncios para cualquier sitio web eficiente; capaz de cargar y aplicar miles más de filtros en comparación con otros populares bloqueadores, manteniendo un mínimo consumo de memoria y CPU. <br> (Para twitch recomiendo el uso de [TAdblock](https://github.com/5qw/TAdblock))
 
 ## ⚙️ » <b> Instalación recomendada:</b>
 * Descargue el archivo .ZIP más reciente
